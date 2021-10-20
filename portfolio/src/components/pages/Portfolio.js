@@ -23,7 +23,7 @@ export default function Portfolio() {
                         <a class="portfolio" href="https://rjr2.github.io/dayplanner/" target="_blank" rel="noopener noreferrer">
                             <img src={Card2Pic} class="card-img-top" alt="Screenshot of day planner" />
                             <div class="card-body">
-                                <p class="card-text text-center">A simple dayplanner that uses local storage to organize your day!</p>
+                                <p class="card-text text-center">A simple dayplanner that uses local storage!</p>
                             </div>
                         </a>
                     </div>
