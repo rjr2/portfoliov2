@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfoliov2/static/css/main.a71b288b.chunk.css",
+    "main.js": "/portfoliov2/static/js/main.ccfec62a.chunk.js",
+    "main.js.map": "/portfoliov2/static/js/main.ccfec62a.chunk.js.map",
+    "runtime-main.js": "/portfoliov2/static/js/runtime-main.eb9e7bde.js",
+    "runtime-main.js.map": "/portfoliov2/static/js/runtime-main.eb9e7bde.js.map",
+    "static/css/2.081f420c.chunk.css": "/portfoliov2/static/css/2.081f420c.chunk.css",
+    "static/js/2.a8c22c97.chunk.js": "/portfoliov2/static/js/2.a8c22c97.chunk.js",
+    "static/js/2.a8c22c97.chunk.js.map": "/portfoliov2/static/js/2.a8c22c97.chunk.js.map",
+    "index.html": "/portfoliov2/index.html",
+    "static/css/2.081f420c.chunk.css.map": "/portfoliov2/static/css/2.081f420c.chunk.css.map",
+    "static/css/main.a71b288b.chunk.css.map": "/portfoliov2/static/css/main.a71b288b.chunk.css.map",
+    "static/js/2.a8c22c97.chunk.js.LICENSE.txt": "/portfoliov2/static/js/2.a8c22c97.chunk.js.LICENSE.txt",
+    "static/media/calendontsh.610c48ad.png": "/portfoliov2/static/media/calendontsh.610c48ad.png",
+    "static/media/dpscreen.9b076d2c.png": "/portfoliov2/static/media/dpscreen.9b076d2c.png",
+    "static/media/pwscreen.e9d7d0aa.png": "/portfoliov2/static/media/pwscreen.e9d7d0aa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb9e7bde.js",
+    "static/css/2.081f420c.chunk.css",
+    "static/js/2.a8c22c97.chunk.js",
+    "static/css/main.a71b288b.chunk.css",
+    "static/js/main.ccfec62a.chunk.js"
+  ]
+}
